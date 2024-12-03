@@ -54,7 +54,7 @@ button{
 ul li{
     list-style: none;
     font-size: 18px;
-    padding: 12px 8px 12px 50px;
+    padding: 13px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
     position: relative;
@@ -131,7 +131,7 @@ ul li span:hover{
     ul li{
         list-style: none;
         font-size: 16px;
-        padding: 14px 8px 12px 50px;
+        padding: 15px 8px 12px 50px;
         user-select: none;
         cursor: pointer;
         position: relative;
